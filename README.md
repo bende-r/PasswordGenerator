@@ -1,0 +1,1 @@
+This application is a password generator created using C#. To generate a password, you must enter the set of desired characters to use, select the password length and click the generate button. As a response, you will receive the answer and the time it will take on average to crack this password.
